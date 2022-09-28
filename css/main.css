@@ -29,6 +29,7 @@ h2 {
 nav {
 background-color: black;
 }
+
 nav ol {
   list-style-type: none;
   margin: 0;
@@ -48,6 +49,7 @@ a:hover {
   text-decoration: underline;
   color: purple;
 }
+
 .about-me {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -61,6 +63,7 @@ a:hover {
   grid-area: side;
   max-width: 1080px;
 }
+
 .about-me img {
   margin-left: 100px;
   border-radius: 100%;
@@ -69,6 +72,7 @@ a:hover {
   border-style: solid;
   border-color: purple;
 }
+
 .my-work ul{
   max-width: 1080px;
   margin: 0 auto;
@@ -90,6 +94,7 @@ ul > li > img {
   border-radius: 40px;
   border-color: purple;
 }
+
 .hero-banner {
   width: 100%;
   height: 80vh;
